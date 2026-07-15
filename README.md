@@ -2,4 +2,4 @@
 This is a demo file.
 
 # college
-srm instuite of science and technology
+srm instuite of science and technology.
